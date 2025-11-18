@@ -1,4 +1,4 @@
-# Help translate eSearch Pro and TARILIO Pro into your language.
+# Help translate TARILIO and TARILIO Pro into your language.
 
 ## Translating
 
