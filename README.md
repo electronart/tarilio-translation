@@ -4,7 +4,7 @@
 
 Use our FREE Language File Editor
 
-Download from here: https://dtsearch.co.uk/news/product/language-file-editor/
+Download from here: [(https://tarilio.com/product/language-file-editor/)](https://tarilio.com/product/language-file-editor/)
 
 The Help file includes instructions for translation.  
 
