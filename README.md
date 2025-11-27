@@ -32,9 +32,9 @@ Paste back the translated text into the right hand column, to replace the Englis
 
 Merge conflicts can happen if you're translating an outdated version of the template.lang file, part of which might have been translated by someone else. 
 
-To prevent this, download and install the latest release of eSearch Pro right before you translate. The template.lang file can be found under C:\Users\User\AppData\Roaming\eSearch\i18n\
+To prevent this, download and install the latest release of TARILIO right before you translate. The template.lang file can be found under C:\Users\User\AppData\Roaming\eSearch\i18n\
 
-Download from here: https://dtsearch.co.uk/news/product/esearch-pro/
+Download from here: [https://tarilio.com/products/tarilio](https://tarilio.com/products/tarilio)
 
 Alternatively fork the esearch project itself: https://github.com/electronart/esearch-project/tree/master/eSearch/i18n
 
